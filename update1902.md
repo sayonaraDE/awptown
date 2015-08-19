@@ -10,7 +10,7 @@ If you're using this version, we recommend to you, download the latest version, 
 
 > [GAMEPLAY]<br>
 >   Fixed stairs a bridge.<br>
->   Added new skybox (Bugfix) (external release on 19. Feb 2015 8:40pm)
+>   Added new skybox (Bugfix) (external release on 19. Feb 2015 8:40pm)<br>
 >   Fixed bridge egde.<br><br>
 > [MAP]<br>
 >   Added env_cubemap for reflection. (Visible only, if shader quality is high / very high)<br>
