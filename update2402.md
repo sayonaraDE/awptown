@@ -8,13 +8,13 @@ If you're using this version, we recommend to you, download the latest version, 
 
 ### Changelog (Steam)
 
-> [GAMEPLAY]
-> Some bugfixes on map,
-> Map will be a little bit smaller,
-> Bridge will be bigger and you can hide, but you're not secured from above.
-> Better places for boxes.
-> There is not anymore a wall of each side corner in front the big gap of middle the map.
-> Spawns changed to 2-5-2 on both sides. (From 1th floor to 3th floor)
+> [GAMEPLAY]<br>
+> Some bugfixes on map,<br>
+> Map will be a little bit smaller,<br>
+> Bridge will be bigger and you can hide, but you're not secured from above.<br>
+> Better places for boxes.<br>
+> There is not anymore a wall of each side corner in front the big gap of middle the map.<br>
+> Spawns changed to 2-5-2 on both sides. (From 1th floor to 3th floor)<br><br>
 
 Check the version in your ".rar" or ".zip" file. Check "version.txt". Available only in 4.0. If you've downloaded this map
 from the Steam Workshop, you will get the latest updates automaticly. Don't worry about it. If you've downloaded this map
