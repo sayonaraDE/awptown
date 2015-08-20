@@ -1,7 +1,7 @@
 # AWP Town
 AWP Town is a created community map by Sayonara for Counter-Strike: Global Offensive
 
-Check this map together out. Alone, it's silent, dark and not safe. Play it together and give me review. What you can expect from this map?
+Check this map together out. Alone, it's silent, dark and not safe. Play it together and hold your site. What you can expect from this map?
 
 - [x] Don't be alone! Play up to 32 players online!
 - [x] Move on other sites, to kill the enemy as silent as you can.
