@@ -12,7 +12,7 @@ Check this map together out. Alone, it's silent, dark and not safe. Play it toge
 - [x] Get ready for a big update soon!
 - [x] You will have fun, if you play with more players than 1vs1!
 
-With another words, enjoy it! I would be very happy about a review and show me if you like it or not.
+With another words, enjoy it! I would be very happy about a review and show me if you like it or not. Write me via E-Mail: playsfantasy@live.de
 
 **Sayonara & Len**
 
